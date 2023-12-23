@@ -12,8 +12,9 @@ tags:
 #  Jun-Yan Zhu
 
 <div style="display: flex; justify-content: center;">
-  <img src="" alt="" width="200"/>
+  <img src="https://www.cs.cmu.edu/~junyanz/imgs/portrait3_lr.jpg" alt="" width="200"/>
 </div>
+
 <p align="left">
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/Github-white?logo=github&logoColor=black&cacheSeconds=1" alt="Github Badge"/>
