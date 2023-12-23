@@ -7,13 +7,18 @@ copyright: Copyright &copy; 2023 huskydoge # 左下角的版权声明
 
 # [Navigtion]
 nav:
-  - Home: index.md
+  - Home:
+      - index.md
+      - template.md
   - Computer Vision:
       - CV/index.md
   - Explainable AI:
       - XAI/index.md
       - SJTU:
           - QuanshiZhang: XAI/QuanshiZhang.md
+  - Robotics:
+      - CMU:
+          - JiaoyangLi: robot/JiaoyangLi.md
   - About: about.md
 
 #[UI]
