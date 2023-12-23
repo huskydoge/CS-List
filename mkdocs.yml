@@ -11,7 +11,10 @@ nav:
       - index.md
       - template.md
   - Computer Vision:
-      - CV/index.md
+      - MIT:
+          - CV/ChuangGan.md
+      - CMU:
+          - CV/JunYanZhu.md
   - Explainable AI:
       - XAI/index.md
       - SJTU:
