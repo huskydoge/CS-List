@@ -12,20 +12,23 @@ tags:
 # Jiaoyang Li 
 
 <p align="left">
-  <a href="https://github.com/">
+  <a href="https://github.com/Jiaoyang-Li">
     <img src="https://img.shields.io/badge/Github-white?logo=github&logoColor=black&cacheSeconds=1" alt="Github Badge"/>
   </a>
-  <a href="https://twitter.com/">
+  <a href="https://twitter.com/JiaoyangLi9">
     <img src="https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=blue&cacheSeconds=1" alt="Twitter Badge"/>
   </a>
   <a href="https://scholar.google.com/">
     <img src="https://img.shields.io/badge/GoogleScholar-white?logo=googlescholar&logoColor=blue&cacheSeconds=1" alt="Google Scholar Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/Email-white?logo=gmail&logoColor=blue" alt="Email Badge"/>
+  <a href="mailto:jiaoyanl@andrew.cmu.edu">
+    <img src="https://img.shields.io/badge/Email-white?logo=gmail&logoColor=blue" alt="Email Badge"/>
+  </a>
   <a href="https://jiaoyangli.me/">
   <img src="https://img.shields.io/badge/website-white?logo=wordpress&logoColor=blue" alt="Website Badge"/>
   </a>
 </p>
+
 
 
 
