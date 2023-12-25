@@ -22,6 +22,9 @@ nav:
   - Robotics:
       - CMU:
           - JiaoyangLi: robot/JiaoyangLi.md
+  - NLP:
+      - Stanford:
+          - DiyiYang: NLP/DiyiYang.md
   - About: about.md
 
 #[UI]

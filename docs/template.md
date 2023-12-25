@@ -1,5 +1,11 @@
 ---
-
+tags:
+  - MIT
+  - Computer Vision
+  - LLM
+  - THU
+  - Research Manager
+  - Robotics
 
 ---
 
