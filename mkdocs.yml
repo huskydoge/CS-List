@@ -5,7 +5,7 @@ site_author: huskydoge #作者名
 site_url: https://huskydoge.github.io/ #网站地址
 copyright: Copyright &copy; 2023 huskydoge # 左下角的版权声明
 
-# [Navigtion]
+# [Navigation]
 nav:
   - Home:
       - index.md
@@ -22,6 +22,8 @@ nav:
   - Robotics:
       - CMU:
           - JiaoyangLi: robot/JiaoyangLi.md
+      - UoT:
+          - robot/IgorGilischenski.md
   - About: about.md
 
 #[UI]
