@@ -21,7 +21,6 @@ nav:
       - UCSD:
           - CV/XiaoLongWang.md
   - Explainable AI:
-      - XAI/index.md
       - SJTU:
           - QuanshiZhang: XAI/QuanshiZhang.md
   - Robotics:
