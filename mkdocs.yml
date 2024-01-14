@@ -32,7 +32,8 @@ nav:
   - NLP:
       - Stanford:
           - DiyiYang: NLP/DiyiYang.md
-  - About: about.md
+      - UCSD:
+          - ZhitingHu: NLP/ZhitingHu.md
 
 #[UI]
 theme:
