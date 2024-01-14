@@ -1,0 +1,32 @@
+# macOS 系统文件
+.DS_Store
+
+# Windows 系统文件
+Thumbs.db
+ehthumbs.db
+
+# Linux 系统文件
+.*~
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Visual Studio Code
+.vscode/
+
+# node_modules 文件夹
+node_modules/
+
+# 日志文件
+*.log
+
+# 临时文件
+temp/
+
