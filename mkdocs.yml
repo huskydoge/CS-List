@@ -10,6 +10,9 @@ nav:
   - Home:
       - index.md
       - template.md
+  - Machine Learning:
+      - CMU:
+          - ML/EricXing.md
   - Computer Vision:
       - MIT:
           - CV/ChuangGan.md
