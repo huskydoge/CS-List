@@ -33,6 +33,8 @@ nav:
           - DiyiYang: NLP/DiyiYang.md
       - UCSD:
           - ZhitingHu: NLP/ZhitingHu.md
+      - Princeton:
+          - DanqiChen: NLP/DanqiChen.md
 
 #[UI]
 theme:
