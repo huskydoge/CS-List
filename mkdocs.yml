@@ -13,6 +13,8 @@ nav:
   - Machine Learning:
       - CMU:
           - ML/EricXing.md
+      - Stanford:
+          - ML/TengyuMa.md
   - Computer Vision:
       - MIT:
           - CV/ChuangGan.md
@@ -22,19 +24,23 @@ nav:
           - CV/XiaoLongWang.md
   - Explainable AI:
       - SJTU:
-          - QuanshiZhang: XAI/QuanshiZhang.md
+          - Quanshi Zhang: XAI/QuanshiZhang.md
   - Robotics:
       - CMU:
-          - JiaoyangLi: robot/JiaoyangLi.md
+          - Jiaoyang Li: robot/JiaoyangLi.md
       - UoT:
           - robot/IgorGilischenski.md
   - NLP:
       - Stanford:
-          - DiyiYang: NLP/DiyiYang.md
+          - Diyi Yang: NLP/DiyiYang.md
       - UCSD:
-          - ZhitingHu: NLP/ZhitingHu.md
+          - Zhiting Hu: NLP/ZhitingHu.md
       - Princeton:
-          - DanqiChen: NLP/DanqiChen.md
+          - Danqi Chen: NLP/DanqiChen.md
+      - MRSA:
+          - Chin-Yew Lin: NLP/ChinYewLin.md
+      - CMU:
+          - Graham Neubig: NLP/GrahamNeubig.md
 
 #[UI]
 theme:
@@ -86,7 +92,7 @@ theme:
   icon:
     repo: fontawesome/brands/github #右上角图标
 repo_name: huskydoge.github.io # 右上角的名
-repo_url: https://github.com/leoalasiga/leoalasiga.github.io.git # 右上角点击跳转的链接
+repo_url: https://huskydoge.github.io/ # 右上角点击跳转的链接
 
 markdown_extensions:
   - admonition
