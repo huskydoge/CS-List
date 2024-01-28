@@ -97,7 +97,7 @@ theme:
 
   icon:
     repo: fontawesome/brands/github #右上角图标
-repo_name: huskydoge.github.io # 右上角的名
+repo_name: Home Page # 右上角的名
 repo_url: https://huskydoge.github.io/ # 右上角点击跳转的链接
 
 markdown_extensions:
