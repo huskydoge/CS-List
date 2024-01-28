@@ -41,7 +41,13 @@ nav:
           - Chin-Yew Lin: NLP/ChinYewLin.md
       - CMU:
           - Graham Neubig: NLP/GrahamNeubig.md
-
+      - MIT:
+          - Yoon Kim: NLP/YoonKim.md
+  - System:
+      - CMU:
+          - Beidi Chen: System/BeidiChen.md
+      - MIT:
+          - Song Han: System/HanSong.md
 #[UI]
 theme:
   name: material
