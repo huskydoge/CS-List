@@ -6,7 +6,8 @@ tags:
   - THU
   - Research Manager
   - Robotics
-
+  - Assistant Professor
+  - Hiring Students
 ---
 
 # Template
@@ -37,23 +38,18 @@ tags:
 
 ## Biography
 
-	Description
-
-
 
 
 
 ## Selected PhDs
 
-
+Anyone you know? 
 
 
 
 ## Selected Masters
 
-
-
-
+Anyone you know? 
 
 
 
@@ -63,3 +59,11 @@ tags:
 
 - [ x ]  **Positions Available for PhD Candidates**: Inviting applications from prospective PhD students who are passionate about pursuing advanced research in [specific field or topic].
 
+
+
+## Comments (optional)
+
+Share working/internship experience
+
+* start-date - end-date : xxxxx
+* .....
