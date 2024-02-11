@@ -48,6 +48,10 @@ nav:
           - Beidi Chen: System/BeidiChen.md
       - MIT:
           - Song Han: System/HanSong.md
+  - Graph Learning:
+      - UIUC:
+          - Jiaxuan You: GL/JiaxuaYou.md
+          - Jiaqi Ma: GL/JiaqiMa.md
 #[UI]
 theme:
   name: material
