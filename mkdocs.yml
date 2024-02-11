@@ -50,7 +50,7 @@ nav:
           - Song Han: System/HanSong.md
   - Graph Learning:
       - UIUC:
-          - Jiaxuan You: GL/JiaxuaYou.md
+          - Jiaxuan You: GL/JiaxuanYou.md
           - Jiaqi Ma: GL/JiaqiMa.md
 #[UI]
 theme:
