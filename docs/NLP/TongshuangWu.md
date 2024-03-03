@@ -54,13 +54,14 @@ Anyone you know?
 
 ## Recruitment Information
 
-For undergraduate / Master students
-Q: I am a undergraduate / Master students at CMU. Can I work with you?
-A: Depending on what my students are doing, I may or may not be looking for undergraduate / Master students. Please feef free to send me an email with (1) your CV and (2) what you are interested in working on. Also, at this stage in your study, it’s usually more fruitful for you to join a well-scoped, existing research project than trying to initiate one. But if you really want to start something new, please also send me a 1-2 paragraph of what you might want to do. If we are indeed looking, I will get back to you! However, please be prepared to not hear back from me — it’s likely that we don’t have something fitting at the moment :)
-Q: I am a undergraduate / Master students outside of CMU. Can I work with you?
-A: Unfortunately right now I don’t have the bandwidth to take remote interns. I am sorry about that!
+For undergraduate / Master students:
 
-https://www.cs.cmu.edu/~sherryw/faqs.html
+* Q: I am a undergraduate / Master students at CMU. Can I work with you?
+  * A: Depending on what my students are doing, I may or may not be looking for undergraduate / Master students. Please feef free to send me an email with (1) your CV and (2) what you are interested in working on. Also, at this stage in your study, it’s usually more fruitful for you to join a well-scoped, existing research project than trying to initiate one. But if you really want to start something new, please also send me a 1-2 paragraph of what you might want to do. If we are indeed looking, I will get back to you! However, please be prepared to not hear back from me — it’s likely that we don’t have something fitting at the moment :)
+* Q: I am a undergraduate / Master students outside of CMU. Can I work with you?
+  * A: Unfortunately right now I don’t have the bandwidth to take remote interns. I am sorry about that!
+
+[https://www.cs.cmu.edu/~sherryw/faqs.html](https://www.cs.cmu.edu/~sherryw/faqs.html)
 
 ## Comments (optional)
 
